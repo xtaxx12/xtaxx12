@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desarrollador Full-Stack | 🚀 Apasionado por crear soluciones innovadoras</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+código;Desarrollador+Full-Stack;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" /></a>
+
 </p>
 
 ---
