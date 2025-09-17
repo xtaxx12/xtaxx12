@@ -4,7 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtaxx12&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="Estadísticas de GitHub" height="165" />
+  https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=dracula" alt="Lenguajes más usados" height="165" />
 </p>
 
