@@ -14,9 +14,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Lenguajes más usados" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtaxx12&theme=radical&hide_border=true&background=0d1117&stroke=0d1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="Racha de contribuciones" />
-</p>
+
 
 ---
 
