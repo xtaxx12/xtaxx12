@@ -13,6 +13,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtaxx12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Lenguajes más usados" />
 </p>
+
+<p align="center">
+    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=xtaxx12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Lenguajes más usados" />
+</p>
 ## 🚀 Sobre mí
 
 Soy un desarrollador Full-Stack apasionado por crear soluciones digitales eficientes y escalables. Mi enfoque combina la elegancia del frontend con la robustez del backend, siempre buscando optimizar procesos y superar desafíos técnicos.
