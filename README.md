@@ -81,6 +81,8 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones digitales eficie
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xtaxx12/xtaxx12/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 
 ---
 
