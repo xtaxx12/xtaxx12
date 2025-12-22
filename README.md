@@ -13,6 +13,20 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtaxx12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Estadísticas de GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Lenguajes más usados" />
 </p>
+
+
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ## 🚀 Sobre mí
 
 Soy un desarrollador Full-Stack apasionado por crear soluciones digitales eficientes y escalables. Mi enfoque combina la elegancia del frontend con la robustez del backend, siempre buscando optimizar procesos y superar desafíos técnicos.
