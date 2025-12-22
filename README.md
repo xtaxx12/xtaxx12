@@ -15,7 +15,6 @@
 </p>
 
 
-
 ## 🚀 Sobre mí
 
 Soy un desarrollador Full-Stack apasionado por crear soluciones digitales eficientes y escalables. Mi enfoque combina la elegancia del frontend con la robustez del backend, siempre buscando optimizar procesos y superar desafíos técnicos.
