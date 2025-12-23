@@ -9,11 +9,12 @@
 
 ## 📊 Estadísticas de GitHub
 ---
+
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtaxx12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Estadísticas de GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&icon_color=22D3EE" alt="Lenguajes más usados" />
 </p>
-
 
 ## 🚀 Sobre mí
 
