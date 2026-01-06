@@ -125,7 +125,7 @@ const joel = {
 
 <div align="center">
   <a href="https://github.com/xtaxx12">
-    <img src="https://github-profile-trophy.vercel.app/?username=xtaxx12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+    <img src="https://github-trophies.vercel.app/?username=xtaxx12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   </a>
 </div>
 
