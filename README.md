@@ -173,12 +173,6 @@ const joel = {
   
   <br/><br/>
   
-  <!-- Support Me -->
-  <a href="https://www.buymeacoffee.com/joelrojas" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-  </a>
-  
-  <br/><br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
