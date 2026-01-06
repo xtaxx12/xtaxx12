@@ -21,12 +21,28 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" height="270" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre Mí**
 ## 🧠 Sobre mí
 
 ```javascript
 const joel = {
+    rol: "Full-Stack Developer",
+    ubicación: "🌎 Latinoamérica",
+    código: ["JavaScript", "Python", "PHP", "Java", "Kotlin", "Dart"],
+    tecnologías: {
+        frontEnd: {
+            js: ["React", "Node.js"],
+            css: ["Tailwind", "Bootstrap"],
+            móvil: ["Flutter"]
+        },
+        backEnd: ["Django", "Flask", "Laravel", "Node.js"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+        devOps: ["Docker", "AWS", "Firebase", "Heroku"],
+        herramientas: ["Git", "Postman", "Figma", "Linux"]
+    },
+    arquitectura: ["Microservicios", "SPA", "REST APIs", "MVC"],
+    pasiones: ["Clean Code", "Open Source", "Innovación"],
+    frase: "El código es poesía escrita en lógica 💡"
   role: "Full-Stack Web Developer",
   location: "🌎 Latinoamérica",
   languages: ["JavaScript", "Python", "PHP", "Java", "Dart"],
@@ -36,7 +52,7 @@ const joel = {
   devOps: ["Docker", "AWS", "Firebase"],
   architecture: ["REST APIs", "MVC", "Microservicios"]
 };
-```
+
 
 <br clear="both"/>
 
