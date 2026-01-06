@@ -34,11 +34,10 @@ jobs:
           # Tu nombre de usuario de GitHub
           github_user_name: ${{ github.repository_owner }}
           
-          # Archivos de salida (múltiples versiones para compatibilidad)
+          # Archivos de salida (solo SVGs - la versión svg-only no soporta GIFs)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
       # Paso 3: Subir los archivos generados a la rama 'output'
       - name: Push to output branch
