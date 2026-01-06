@@ -64,15 +64,6 @@ const joel = {
   
 </div>
 
-<div align="center">
-  
-  <!-- Streak Stats - Using streak-stats.demolab.com as alternative -->
-  <a href="https://github.com/xtaxx12">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=xtaxx12&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&background=0D1117" alt="Joel's Streak"/>
-  </a>
-  
-</div>
-
 <br/>
 
 <!-- Activity Graph -->
