@@ -205,7 +205,7 @@ const joel = {
 
 **🎵 Escuchando mientras codifico:**
 
-[![Spotify](https://novatorem-xtaxx12.vercel.app/api/spotify)](https://open.spotify.com/user/xtaxx12)
+[![Spotify](https://novatorem-31ymuvgjvtoiq6u43j26dw6xzvem.vercel.app/api/spotify)](https://open.spotify.com/user/31ymuvgjvtoiq6u43j26dw6xzvem)
 
 </div>
 </details>
