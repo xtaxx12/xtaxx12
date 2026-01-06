@@ -52,7 +52,7 @@ const joel = {
   devOps: ["Docker", "AWS", "Firebase"],
   architecture: ["REST APIs", "MVC", "Microservicios"]
 };
-
+```
 
 <br clear="both"/>
 
