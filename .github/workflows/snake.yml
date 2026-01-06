@@ -22,6 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # ⚠️ IMPORTANTE: Permisos necesarios para hacer push
+    permissions:
+      contents: write
+    
     steps:
       # Paso 1: Checkout del repositorio
       - name: Checkout repository
