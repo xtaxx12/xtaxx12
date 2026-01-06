@@ -6,7 +6,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Joel+Rojas;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Creando+soluciones+innovadoras;%E2%9C%A8+Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Joel+Rojas;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Creando+soluciones+innovadoras;%E2%9C%A8+Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -22,7 +22,6 @@
 
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre Mí**
-## 🧠 Sobre mí
 
 ```javascript
 const joel = {
@@ -43,14 +42,6 @@ const joel = {
     arquitectura: ["Microservicios", "SPA", "REST APIs", "MVC"],
     pasiones: ["Clean Code", "Open Source", "Innovación"],
     frase: "El código es poesía escrita en lógica 💡"
-  role: "Full-Stack Web Developer",
-  location: "🌎 Latinoamérica",
-  languages: ["JavaScript", "Python", "PHP", "Java", "Dart"],
-  frontend: ["React", "Tailwind", "Bootstrap"],
-  backend: ["Django", "Flask", "Laravel", "Node.js"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB"],
-  devOps: ["Docker", "AWS", "Firebase"],
-  architecture: ["REST APIs", "MVC", "Microservicios"]
 };
 ```
 
@@ -63,15 +54,22 @@ const joel = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xtaxx12&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&ring_color=22D3EE" alt="Joel Rojas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <!-- GitHub Stats - Using github-readme-stats from anuraghazra -->
+  <a href="https://github.com/xtaxx12">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xtaxx12&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&ring_color=22D3EE" alt="Joel Rojas github stats" />
+  </a>
+  <a href="https://github.com/xtaxx12">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  </a>
   
 </div>
 
 <div align="center">
   
-  <!-- Streak Stats -->
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=xtaxx12&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&background=0D1117" alt="Joel's Streak"/>
+  <!-- Streak Stats - Using streak-stats.demolab.com as alternative -->
+  <a href="https://github.com/xtaxx12">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=xtaxx12&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&background=0D1117" alt="Joel's Streak"/>
+  </a>
   
 </div>
 
@@ -79,7 +77,9 @@ const joel = {
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtaxx12&custom_title=📈%20Gráfico%20de%20Contribuciones&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff&area_color=22D3EE&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <a href="https://github.com/xtaxx12">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtaxx12&custom_title=📈%20Gráfico%20de%20Contribuciones&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff&area_color=22D3EE&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  </a>
 </div>
 
 ---
@@ -91,22 +91,22 @@ const joel = {
 
 ### 🔷 Lenguajes de Programación
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=php,python,java,javascript,dart,kotlin&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=php,python,java,javascript,dart,kotlin&theme=dark" alt="Languages" />
 </p>
 
 ### 🖥️ Frontend & Frameworks
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,flask,laravel,tailwind,bootstrap,flutter&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,flask,laravel,tailwind,bootstrap,flutter&theme=dark" alt="Frontend" />
 </p>
 
 ### 🗄️ Bases de Datos
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
 </p>
 
 ### 🛠️ Herramientas & Plataformas
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,linux,firebase,heroku,aws,postman,figma&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,firebase,heroku,aws,postman,figma&theme=dark" alt="Tools" />
 </p>
 
 </div>
@@ -120,23 +120,12 @@ const joel = {
   
 | 🎯 Tecnología | 📊 Progreso |
 |:-------------:|:-----------:|
-| Arquitectura de Microservicios | ![](https://geps.dev/progress/75?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| Cloud Computing (AWS) | ![](https://geps.dev/progress/60?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| DevOps & CI/CD | ![](https://geps.dev/progress/65?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| Kubernetes | ![](https://geps.dev/progress/40?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
+| Arquitectura de Microservicios | ![75%](https://progress-bar.dev/75/?width=200&color=22D3EE) |
+| Cloud Computing (AWS) | ![60%](https://progress-bar.dev/60/?width=200&color=22D3EE) |
+| DevOps & CI/CD | ![65%](https://progress-bar.dev/65/?width=200&color=22D3EE) |
+| Kubernetes | ![40%](https://progress-bar.dev/40/?width=200&color=22D3EE) |
 
 </div>
-
----
-
-<!-- Contributions Snake -->
-## 🐍 Mis Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtaxx12/xtaxx12/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtaxx12/xtaxx12/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/xtaxx12/xtaxx12/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
@@ -144,7 +133,22 @@ const joel = {
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xtaxx12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <a href="https://github.com/xtaxx12">
+    <img src="https://github-profile-trophy.vercel.app/?username=xtaxx12&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  </a>
+</div>
+
+---
+
+<!-- Featured Projects -->
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/xtaxx12/Movie-Discovery-App">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=Movie-Discovery-App&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE" />
+</a>
+
 </div>
 
 ---
@@ -180,7 +184,6 @@ const joel = {
   
   <br/><br/>
   
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
 </div>
@@ -204,15 +207,11 @@ const joel = {
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**🎵 Escuchando mientras codifico:**
-
-[![Spotify](https://novatorem-31ymuvgjvtoiq6u43j26dw6xzvem.vercel.app/api/spotify)](https://open.spotify.com/user/31ymuvgjvtoiq6u43j26dw6xzvem)
-
 </div>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%A8+Gracias+por+visitar+mi+perfil!;%F0%9F%9A%80+%C2%A1Construyamos+algo+incre%C3%ADble+juntos!" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%A8+Gracias+por+visitar+mi+perfil!;%F0%9F%9A%80+%C2%A1Construyamos+algo+incre%C3%ADble+juntos!" alt="Thanks" />
 </div>
