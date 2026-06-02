@@ -51,9 +51,8 @@ Abierto a:
 
 | Empresa | Rol | Periodo | Tecnologías |
 |---------|-----|---------|-------------|
-| [Nombre de la empresa] | Full-Stack Developer | 20XX - Presente | React, Node.js, AWS |
-| [Nombre de la empresa] | Backend Developer | 20XX - 20XX | Python, Django, PostgreSQL |
-| [Nombre de la empresa] | Developer | 20XX - 20XX | TypeScript, Docker, CI/CD |
+| BRG EXPORT SHRIMP S.A.| Full-Stack Developer | 2025 - Presente | React, Node.js, AWS |
+
 
 ---
 
