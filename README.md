@@ -31,7 +31,7 @@
 
 ## Sobre mi
 
-Desarrollador Full-Stack basado en Latinoamérica con **+X años de experiencia** construyendo soluciones web escalables, mantenibles y orientadas a negocio. Trabajo de extremo a extremo: desde interfaces modernas y accesibles hasta arquitectura backend robusta y despliegues en la nube.
+Desarrollador Full-Stack basado en Latinoamérica con **+4 años de experiencia** construyendo soluciones web escalables, mantenibles y orientadas a negocio. Trabajo de extremo a extremo: desde interfaces modernas y accesibles hasta arquitectura backend robusta y despliegues en la nube.
 
 Enfoque principal:
 - **Microservices**
@@ -161,15 +161,6 @@ Abierto a:
 | Kubernetes | ![40%](https://progress-bar.dev/40/?width=200&color=22D3EE&title=40%) |
 
 ---
-
-## Certificaciones
-
-- [Certificación AWS] — [Issuer], [Año]
-- [Certificación DevOps / Cloud] — [Issuer], [Año]
-- [Certificación adicional relevante] — [Issuer], [Año]
-
----
-
 ## GitHub Trophies
 
 <div align="center">
