@@ -15,15 +15,45 @@
 
 </div>
 
+## Tabla de Contenidos
+
+- [Sobre mí](#sobre-mi)
+- [Experiencia](#experiencia)
+- [Technical Stack](#technical-stack)
+- [GitHub Statistics](#github-statistics)
+- [Featured Projects](#featured-projects)
+- [Actualmente aprendiendo](#actualmente-aprendiendo)
+- [Certificaciones](#certificaciones)
+- [GitHub Trophies](#github-trophies)
+- [Contacto](#contacto)
+
 ---
 
-## About
+## Sobre mi
 
-Full-Stack Developer based in Latin America, focused on building scalable web applications and clean, maintainable systems. I work across the entire stack — from crafting responsive interfaces to designing robust backend architectures and cloud deployments.
+Desarrollador Full-Stack basado en Latinoamérica con **+X años de experiencia** construyendo soluciones web escalables, mantenibles y orientadas a negocio. Trabajo de extremo a extremo: desde interfaces modernas y accesibles hasta arquitectura backend robusta y despliegues en la nube.
 
-Currently deepening my expertise in **Microservices Architecture**, **Cloud Computing (AWS)** and **DevOps practices**. I'm driven by clean code principles, continuous learning, and the challenge of turning complex problems into elegant solutions.
+Enfoque principal:
+- **Microservices**
+- **AWS**
+- **DevOps**
+
+Abierto a:
+- Colaboraciones técnicas en productos y startups
+- Proyectos freelance
+- Oportunidades full-time en equipos de alto rendimiento
 
 > *"Code is poetry written in logic."*
+
+---
+
+## Experiencia
+
+| Empresa | Rol | Periodo | Tecnologías |
+|---------|-----|---------|-------------|
+| [Nombre de la empresa] | Full-Stack Developer | 20XX - Presente | React, Node.js, AWS |
+| [Nombre de la empresa] | Backend Developer | 20XX - 20XX | Python, Django, PostgreSQL |
+| [Nombre de la empresa] | Developer | 20XX - 20XX | TypeScript, Docker, CI/CD |
 
 ---
 
@@ -110,11 +140,19 @@ Currently deepening my expertise in **Microservices Architecture**, **Cloud Comp
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=Movie-Discovery-App&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
 </a>
 
+<a href="https://github.com/xtaxx12/portkiller">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=portkiller&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/xtaxx12/tech_radar">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=tech_radar&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
+</a>
+
 </div>
 
 ---
 
-## Currently Learning
+## Actualmente aprendiendo
 
 | Area | Progress |
 |------|----------|
@@ -122,6 +160,14 @@ Currently deepening my expertise in **Microservices Architecture**, **Cloud Comp
 | AWS Cloud Computing | ![60%](https://progress-bar.dev/60/?width=200&color=22D3EE&title=60%) |
 | DevOps & CI/CD | ![65%](https://progress-bar.dev/65/?width=200&color=22D3EE&title=65%) |
 | Kubernetes | ![40%](https://progress-bar.dev/40/?width=200&color=22D3EE&title=40%) |
+
+---
+
+## Certificaciones
+
+- [Certificación AWS] — [Issuer], [Año]
+- [Certificación DevOps / Cloud] — [Issuer], [Año]
+- [Certificación adicional relevante] — [Issuer], [Año]
 
 ---
 
@@ -134,6 +180,13 @@ Currently deepening my expertise in **Microservices Architecture**, **Cloud Comp
 </div>
 
 ---
+
+## Contacto
+
+¿Tienes una oportunidad, colaboración o proyecto en mente? **Conectemos**:
+
+- 💼 **LinkedIn:** [Joel Rojas](https://www.linkedin.com/in/joel-rojas-598b22283/)
+- 📧 **Email:** [rojassebas765@gmail.com](mailto:rojassebas765@gmail.com)
 
 <div align="center">
 
