@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-rojas-598b22283/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rojassebas765@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xtaxx12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joeldev-portfolio-swart.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=xtaxx12&style=flat-square&color=22D3EE&label=Profile+Views)](https://github.com/xtaxx12)
 
 </div>
@@ -23,7 +24,6 @@
 - [GitHub Statistics](#github-statistics)
 - [Featured Projects](#featured-projects)
 - [Actualmente aprendiendo](#actualmente-aprendiendo)
-- [Certificaciones](#certificaciones)
 - [GitHub Trophies](#github-trophies)
 - [Contacto](#contacto)
 
@@ -67,6 +67,7 @@ Abierto a:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
 
@@ -97,9 +98,11 @@ Abierto a:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
@@ -108,23 +111,15 @@ Abierto a:
 
 <div align="center">
 
-<a href="https://github.com/xtaxx12">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xtaxx12&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&ring_color=22D3EE&include_all_commits=true" />
-</a>
-<a href="https://github.com/xtaxx12">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xtaxx12&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtaxx12&theme=github_dark" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xtaxx12&theme=github_dark" width="41%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtaxx12&theme=github_dark" width="41%" />
 
 <br/>
 
 <a href="https://github.com/xtaxx12">
   <img src="https://streak-stats.demolab.com?user=xtaxx12&theme=dark&hide_border=true&background=0d1117&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/xtaxx12">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtaxx12&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff&area_color=22D3EE&area=true&hide_border=true&custom_title=Contribution+Activity" width="95%" />
 </a>
 
 </div>
@@ -133,21 +128,12 @@ Abierto a:
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/xtaxx12/Movie-Discovery-App">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=Movie-Discovery-App&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/xtaxx12/portkiller">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=portkiller&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/xtaxx12/tech_radar">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xtaxx12&repo=tech_radar&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" />
-</a>
-
-</div>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Movie Discovery App](https://github.com/xtaxx12/Movie-Discovery-App) | Landing page con información de películas | TypeScript, React |
+| [url_shortener](https://github.com/xtaxx12/url_shortener) | Acortador de URLs con caché, balanceo de carga y CI/CD | Go, Redis, PostgreSQL, Docker |
+| [PortKiller](https://github.com/xtaxx12/portkiller) | App de escritorio para visualizar y gestionar puertos y procesos | Python |
+| [tech_radar](https://github.com/xtaxx12/tech_radar) | Proyecto presentado en el GDG Quito | TypeScript |
 
 ---
 
@@ -155,10 +141,10 @@ Abierto a:
 
 | Area | Progress |
 |------|----------|
-| Microservices Architecture | ![75%](https://progress-bar.dev/75/?width=200&color=22D3EE&title=75%) |
-| AWS Cloud Computing | ![60%](https://progress-bar.dev/60/?width=200&color=22D3EE&title=60%) |
-| DevOps & CI/CD | ![65%](https://progress-bar.dev/65/?width=200&color=22D3EE&title=65%) |
-| Kubernetes | ![40%](https://progress-bar.dev/40/?width=200&color=22D3EE&title=40%) |
+| Microservices Architecture | ![75%](https://progress-bar.xyz/75/?width=200&color=22D3EE&title=75%) |
+| AWS Cloud Computing | ![60%](https://progress-bar.xyz/60/?width=200&color=22D3EE&title=60%) |
+| DevOps & CI/CD | ![65%](https://progress-bar.xyz/65/?width=200&color=22D3EE&title=65%) |
+| Kubernetes | ![40%](https://progress-bar.xyz/40/?width=200&color=22D3EE&title=40%) |
 
 ---
 ## GitHub Trophies
@@ -175,6 +161,7 @@ Abierto a:
 
 ¿Tienes una oportunidad, colaboración o proyecto en mente? **Conectemos**:
 
+- 🌐 **Portfolio:** [joeldev-portfolio.vercel.app](https://joeldev-portfolio-swart.vercel.app)
 - 💼 **LinkedIn:** [Joel Rojas](https://www.linkedin.com/in/joel-rojas-598b22283/)
 - 📧 **Email:** [rojassebas765@gmail.com](mailto:rojassebas765@gmail.com)
 
